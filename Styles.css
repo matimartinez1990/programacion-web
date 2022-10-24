@@ -1,0 +1,59 @@
+h1{
+color: brown;
+font-size: 1cm;
+font-family: 'Franklin Gothic Medium';
+font-style: italic;
+text-decoration: dashed;
+}
+
+h2{
+    color: blue;
+    font-size: 0.5cm;
+    font-family: 'Franklin Gothic Medium';
+font-style: italic;
+text-decoration: dashed;
+}
+p{
+    background-position: left;
+    color:negro;
+    font-size: 20px;
+}
+figure{
+    display: table;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+
+header{
+    color: brown;
+    display: flow-root;
+    background-image: url('cuervo.jpg');
+    background-position: center;
+    background-repeat: space;
+    text-align: center;
+    border-top: solid 5px black;
+    border-bottom: solid 5px black;
+    width: 1450px;;
+}
+
+section{
+    background: bisque;
+    b
+    height: 1080px;
+    width: 98%;
+    display: inline-block;
+
+}
+aside{
+    height: 1080px;
+    width: 0.5%;
+    display: inline-block;
+    border-top: solid 5px black;
+    background-repeat: repeat;
+    float: right;
+    
+}
+html,body{
+    width: 1080px;
+}
